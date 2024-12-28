@@ -1,4 +1,5 @@
-Cra: AI-Powered Full-Stack Web Development in the Browser
+Cra 
+AI-Powered Full-Stack Web Development in the Browser
 Cra is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser—no local setup required. If you're here to build your own AI-powered web dev agent using the Cra codebase, click here to get started!
 
 What Makes Cra Different
